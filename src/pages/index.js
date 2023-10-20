@@ -15,9 +15,9 @@ export default function HomePage() {
                             <p className = "sub-subtitle">
                                 Your one-stop destination for the most creative gifts!
                             </p>
-                            {/* <a href = '/products' className="large-button"> */}
+                            <a href = '/products/index.js' className="large-button">
                                 <div className="large-button-text">Shop now!</div>
-                            {/* </a> */}
+                            </a>
                         </div>
                     </div>
                 </div>
