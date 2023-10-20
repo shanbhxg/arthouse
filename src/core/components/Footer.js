@@ -6,9 +6,9 @@ export default function Footer() {
                     <p>
                         <b>Quick Links</b>
                     </p>
-                    <p><a href = "/">Home</a></p>
-                    <p><a href = "/">About Us</a></p>
-                    <p><a href = "/">FAQ</a></p>
+                    <p>Home</p>
+                    <p>About Us</p>
+                    <p>FAQ</p>
                 </div>
             </div>
             <div className="footer-content">
