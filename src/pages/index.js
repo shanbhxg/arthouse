@@ -2,7 +2,7 @@ import Image from "next/image"
 
 export default function HomePage() {
     return (
-        <div className="grid-halves h-screen-navbar" style={{gridTemplateColumns: "3fr 1.25fr"}}>
+        <div className="grid-halves h-screen-navbar" style={{gridTemplateColumns: "65% 35%"}}>
             <div className="bg-green">
                 <div className="column-padding">
                     <div className="centered">
@@ -22,10 +22,12 @@ export default function HomePage() {
                     </div>
                 </div>
             </div>
-            <div className="bg-yellow">
+            <div className="bg-brown">
+                <div className="column-padding centered">
                     <div className="callout-wrap">
-                        <img src="https://i.imgur.com/GoiKGvX.png" className="callout-icon" alt="callout-icon"></img>
+                        <img class="callout-image" loading="lazy" src="https://i.imgur.com/GoiKGvX.png" className="callout-icon" alt="callout-icon"></img>
                     </div>
+                </div>
             </div>
         </div>
     )
