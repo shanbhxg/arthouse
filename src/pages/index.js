@@ -8,7 +8,9 @@ export default function HomePage() {
                     <div className="centered">
                         <div className="content-grid home-hero">
                             <h1>
-                                Welcome to <b style={{color: "#8d4431"}}>Mahimas arthouse</b>!
+                                Welcome to <b style={{color: "#8d4431"}}>Mahima&#39;s arthouse</b>!
+                                {/* since the apostrophe is not allowed, we use the html code for it which is  */}
+
                             </h1>
                             <p className = "sub-subtitle">
                                 Your one-stop destination for the most creative gifts!

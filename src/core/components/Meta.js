@@ -1,7 +1,7 @@
 export default function Meta() {
   return (
     <>
-      <title>Mahimas Arthouse</title>
+      <title>Mahima&#39;s Arthouse</title>
       <meta
         name="description"
         content="Gifting made easy with Mahima's arthouse!"
