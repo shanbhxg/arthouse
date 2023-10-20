@@ -22,7 +22,7 @@ export default function HomePage() {
             </div>
             <div className="bg-yellow">
                     <div className="callout-wrap">
-                        <img src="https://i.imgur.com/GoiKGvX.png" className="callout-icon"></img>
+                        <img src="https://i.imgur.com/GoiKGvX.png" className="callout-icon" alt="callout-icon"></img>
                     </div>
             </div>
         </div>

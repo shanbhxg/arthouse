@@ -16,8 +16,8 @@ export default function Footer() {
                     <p>
                         <b>Contact us</b>
                     </p>
-                        <a href = "https://www.instagram.com/mahimas_art_house/"><img src="https://www.pngmart.com/files/22/Black-And-White-Instagram-Logo-PNG-File.png" style={{height: "25px"}}></img></a>
-                        <a href = "https://www.twitter.com/mahimas_art_house/"><img src="https://pngimg.com/d/envelope_PNG18355.png" style={{height: "25px"}}></img></a>
+                        <a href = "https://www.instagram.com/mahimas_art_house/"><img src="https://www.pngmart.com/files/22/Black-And-White-Instagram-Logo-PNG-File.png" style={{height: "25px"}} alt="ig"></img></a>
+                        <a href = "mailto:abc@gmail.com"><img src="https://pngimg.com/d/envelope_PNG18355.png" style={{height: "25px"}} alt="mail"></img></a>
                         <br></br>
                 </div>
             </div>
